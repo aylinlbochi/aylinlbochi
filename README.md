@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, my name is Aylin! 👋  
 
-<!--
-**aylinlbochi/aylinlbochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student | 🎓 Business Administration graduate  
+🐍 Passionate about Python | 🌱 Exploring automation & data science  
 
-Here are some ideas to get you started:
+🚀 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a Computer Science student with a background in Business Administration. 
+
+My journey in tech started with a love for 
+problem-solving and curiosity about how technology can drive innovation. 
+
+I’m passionate about Python and currently taking my first steps into automation and data science.  
+
+I'm still learning, but I'm excited about every new challenge and project! 🚀 
+
+
+🛠️ Skills  
+**Programming Languages:** Python
+
+**Areas of Interest:** Automation, Data Analysis, Data Visualization, Machine Learning
+
+ 🎯 Goals  
+🌟 **Short-term:** Improve my Python skills, contribute to open-source projects, and develop small automation tools.  
+🚀 **Long-term:** Gain expertise in data science and build solutions that connect technology with business.  
+
+📫 **Let's connect!** Feel free to check out my repositories and reach out!
+
+<img width='50' height= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 -->
