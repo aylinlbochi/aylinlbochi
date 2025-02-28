@@ -28,4 +28,4 @@ I'm still learning, but I'm excited about every new challenge and project! 🚀
 
 <img width='50' height= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
--->
+
